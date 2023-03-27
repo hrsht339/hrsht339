@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **hrsht339/hrsht339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
